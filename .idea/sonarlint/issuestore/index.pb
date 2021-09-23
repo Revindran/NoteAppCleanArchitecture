@@ -1,0 +1,23 @@
+
+y
+Iapp/src/main/java/com/plcoding/cleanarchitecturenoteapp/ui/theme/Shape.kt,9\e\9ea6805d7eed655f05d5c8957775a6e66211bf8e
+y
+Iapp/src/main/java/com/plcoding/cleanarchitecturenoteapp/ui/theme/Theme.kt,4\9\49714c180cf12e6bb0fb0f86b8a2e6b52e75ed1d
+x
+Happ/src/main/java/com/plcoding/cleanarchitecturenoteapp/ui/theme/Type.kt,6\2\62bd9539d0713152b947cebaaaade90fd7a2d9da
+y
+Iapp/src/main/java/com/plcoding/cleanarchitecturenoteapp/ui/theme/Color.kt,5\d\5dd0036e6eaabc1cbb2545b80a0bfffc2708a45b
+ê
+`app/src/main/java/com/plcoding/cleanarchitecturenoteapp/feature_note/data/data_source/NoteDao.kt,a\2\a2011455855a50f8a2f28acbe1f961dea6a3557b
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+b
+2.idea/modules/app/CleanArchitectureNoteApp.app.iml,2\8\282cae30cc33853d200910484bc28980965d7f05
+ô
+iapp/src/main/java/com/plcoding/cleanarchitecturenoteapp/feature_note/domain/use_case/DeleteNoteUseCase.kt,f\b\fbb7b7dc1657fc8eae679e8d4f0d31a2c010ef7f
+ó
+gapp/src/main/java/com/plcoding/cleanarchitecturenoteapp/feature_note/domain/use_case/GetNotesUseCase.kt,3\9\39c8c2123f54e63697b1e11811f1741f6ea2524f
+z
+Japp/src/main/java/com/plcoding/cleanarchitecturenoteapp/NoteApplication.kt,b\7\b75cef13c8014894e55ef8bdc5a2da84e9c021be
